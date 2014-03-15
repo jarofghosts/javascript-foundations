@@ -1,0 +1,28 @@
+{
+  "name": "javascript-foundations",
+  "version": "0.0.0",
+  "description": "javascript workshopper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/appendage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jarofghosts/appendage/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "workshopper",
+    "basics",
+    "learn"
+  ],
+  "author": "jesse keane",
+  "license": "MIT",
+  "dependencies": {
+    "workshopper": "~1.0.0-alpha07",
+    "workshopper-exercise": "~0.2.3"
+  }
+}
