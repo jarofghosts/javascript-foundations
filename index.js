@@ -10,4 +10,5 @@ workshopper({
   , exerciseDir: path.join(__dirname, 'exercises')
   , creditsFile: path.join(__dirname, 'credits.txt')
   , menuItems: []
+  , menu: { bg: 232 }
 })
