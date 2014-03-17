@@ -5,10 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jarofghosts/appendage.git"
+    "url": "git://github.com/jarofghosts/javascript-foundations.git"
   },
   "bugs": {
-    "url": "https://github.com/jarofghosts/appendage/issues"
+    "url": "https://github.com/jarofghosts/javascript-foundations/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
